@@ -1,0 +1,12 @@
+F:\Folders\VS Projects\BeatSaberInstaller\BeatSaberInstaller\bin\Debug\BeatSaberInstaller.exe.config
+F:\Folders\VS Projects\BeatSaberInstaller\BeatSaberInstaller\bin\Debug\BeatSaberInstaller.exe
+F:\Folders\VS Projects\BeatSaberInstaller\BeatSaberInstaller\bin\Debug\BeatSaberInstaller.pdb
+F:\Folders\VS Projects\BeatSaberInstaller\BeatSaberInstaller\obj\Debug\BeatSaberInstaller.csprojAssemblyReference.cache
+F:\Folders\VS Projects\BeatSaberInstaller\BeatSaberInstaller\obj\Debug\BeatSaberInstaller.Form1.resources
+F:\Folders\VS Projects\BeatSaberInstaller\BeatSaberInstaller\obj\Debug\BeatSaberInstaller.Properties.Resources.resources
+F:\Folders\VS Projects\BeatSaberInstaller\BeatSaberInstaller\obj\Debug\BeatSaberInstaller.csproj.GenerateResource.cache
+F:\Folders\VS Projects\BeatSaberInstaller\BeatSaberInstaller\obj\Debug\BeatSaberInstaller.csproj.CoreCompileInputs.cache
+F:\Folders\VS Projects\BeatSaberInstaller\BeatSaberInstaller\obj\Debug\BeatSaberInstaller.exe
+F:\Folders\VS Projects\BeatSaberInstaller\BeatSaberInstaller\obj\Debug\BeatSaberInstaller.pdb
+F:\Folders\VS Projects\BeatSaberInstaller\BeatSaberInstaller\obj\Debug\BeatSaberInstaller.Form2.resources
+F:\Folders\VS Projects\BeatSaberInstaller\BeatSaberInstaller\obj\Debug\BeatSaberInstaller.Form3.resources
